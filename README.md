@@ -1,6 +1,18 @@
+<a id='ancora'></a>
 # Projeto E-commerce usando MYSQL WorkBench - Potência Tech powered by iFood | Ciência de Dados
 
+<br><br>
+
+- [Sobre o Projeto](#ancora1) <br>
+- [Perguntas Respondidas ](#ancora2) <br>
+- [Competências Desenvolvidas](#ancora3)
+
+<br><br>
+
+<a id="ancora1"></a>
 ## Sobre o Projeto ✔️
+
+<br>
 
 Se trata da modelagem de um projeto lógico de banco de dados para o cenário de e-commerce, composta por:
 
@@ -18,9 +30,12 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 - Produto - Fornecedor
 - Local do Estoque
 
+<br>
 
-
+<a id="ancora2"></a>
 ## Perguntas Respondidas 📝
+
+<br>
 
 - Quantos pedidos foram realizados por cada cliente e qual foi o gasto total de suas compras?
 - Algum vendedor também é fornecedor?
@@ -31,10 +46,12 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 - Quais foram os produtos mais comprados/bem avaliados e quais geraram um maior rendimento
 - Qual categoria mais trouxe rendimentos
 
+<br>
 
-
+<a id="ancora3"></a>
 ## Competências Desenvolvidas 📝
 
+<br>
 - Recuperações simples com SELECT Statement
 - Filtros com WHERE Statement
 - Criação de expressões para gerar atributos derivados
@@ -43,3 +60,4 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 - Condições de filtros aos grupos – HAVING Statement
 - Relação entre dados usando JOIN
 
+<br>
