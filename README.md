@@ -54,6 +54,7 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 <br>
 
 * Recuperações simples com SELECT Statement
+* Edição dos dados usando UPDATE/DELETE
 * Filtros com WHERE Statement
 * Criação de expressões para gerar atributos derivados
 * Ordenações dos dados com ORDER BY
