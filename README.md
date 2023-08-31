@@ -33,7 +33,7 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 <br>
 
 <a id="ancora2"></a>
-## Perguntas Respondidas 📝
+## Perguntas Realizadas 📝
 
 <br>
 
