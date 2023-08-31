@@ -56,6 +56,7 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 
 <br>
 
+* Conhecimentos sobre entidades e relacionamentos
 * Recuperações simples com SELECT Statement
 * Edição dos dados usando UPDATE/DELETE
 * Filtros com WHERE Statement
