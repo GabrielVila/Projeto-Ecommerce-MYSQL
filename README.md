@@ -49,7 +49,7 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 <br>
 
 <a id="ancora3"></a>
-## Competências Desenvolvidas 📝
+## Competências Desenvolvidas 💡
 
 <br>
 
