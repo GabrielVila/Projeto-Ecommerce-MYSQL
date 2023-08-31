@@ -30,6 +30,8 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 * Produto - Fornecedor
 * Local do Estoque
 
+![Foto diagrama](https://github.com/GabrielVila/Projeto-Ecommerce-MYSQL/assets/106407096/8988d821-6a65-48ee-a16a-1e91e3a25553)
+
 <br>
 
 <a id="ancora2"></a>
