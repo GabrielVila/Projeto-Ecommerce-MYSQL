@@ -29,9 +29,9 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 * Fornecedor
 * Produto - Fornecedor
 * Local do Estoque
-<br>
+
 ![Foto diagrama2](https://github.com/GabrielVila/Projeto-Ecommerce-MYSQL/assets/106407096/79a97fba-8288-4c5e-91dd-cdd49c46b385)
-<br>
+
 
 <br>
 
