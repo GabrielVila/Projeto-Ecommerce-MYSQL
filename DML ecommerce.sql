@@ -3,7 +3,7 @@ use ecommerce;
 
 CREATE TABLE clients (
   IdClient int NOT NULL AUTO_INCREMENT,
-  Fname varchar(10) DEFAULT NULL,
+  Fname varchar(10) NOT NULL,
   Minit varchar(3) DEFAULT NULL,
   Lname varchar(20) NOT NULL,
   CPF char(11) NOT NULL,
