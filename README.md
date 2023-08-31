@@ -1,5 +1,5 @@
 <a id='ancora'></a>
-# Projeto E-commerce usando MYSQL WorkBench - Potência Tech powered by iFood | Ciência de Dados
+# Projeto E-commerce usando MYSQL WorkBench - Potência Tech powered by iFood | Ciência de Dados 📈
 
 <br><br>
 
