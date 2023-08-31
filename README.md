@@ -1,6 +1,6 @@
 # Projeto E-commerce usando MYSQL WorkBench - Potência Tech powered by iFood | Ciência de Dados
 
-Sobre o Projeto ✔️
+## Sobre o Projeto ✔️
 
 Se trata da modelagem de um projeto lógico de banco de dados para o cenário de e-commerce, composta por:
 
@@ -19,7 +19,8 @@ Se trata da modelagem de um projeto lógico de banco de dados para o cenário de
 - Local do Estoque
 
 
-Perguntas Respondidas 📝
+
+## Perguntas Respondidas 📝
 
 - Quantos pedidos foram realizados por cada cliente e qual foi o gasto total de suas compras?
 - Algum vendedor também é fornecedor?
@@ -31,7 +32,8 @@ Perguntas Respondidas 📝
 - Qual categoria mais trouxe rendimentos
 
 
-Competências Desenvolvidas 📝
+
+## Competências Desenvolvidas 📝
 
 - Recuperações simples com SELECT Statement
 - Filtros com WHERE Statement
